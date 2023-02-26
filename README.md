@@ -57,10 +57,18 @@ This project has been designed having the ATLAS carrier board in mind. This carr
 JTAG pinout using a Trenz CYC1000
 
 
+|  key          | Raspberry Pi Pico | Esp32doit-devkit | FPGA (Must be revised) |MEANING           |
+| :---          | :---              |     :---:        |          ---:          |          ---:    |
+| TMS           | 5                 | 26               |7                       | Test Mode Select |
+| TCK           | 2                 | 32               |11                      | Test Clock       |
+| TDI           | 4                 | 25               |15                      | Test Data In     |
+| TDO           | 3                 | 33               |13                      | Test Data Out    |
+
+
 
 Key
 
-Raspberry Pi Pico
+
 Esp32doit-devkit
 Description
 FPGA GPIO
