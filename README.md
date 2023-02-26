@@ -66,44 +66,6 @@ JTAG pinout using a Trenz CYC1000
 
 
 
-Key
-
-
-Esp32doit-devkit
-Description
-FPGA GPIO
-
-
-
-
-TMS
-5
-26
-Test Mode Select
-7
-
-
-TCK
-2
-32
-Test Clock
-11
-
-
-TDI
-4
-25
-Test Data In
-15
-
-
-TDO
-3
-33
-Test Data Out
-13
-
-
 
 ![PI-PICO Family multicore](https://github.com/AtlasFPGA/ALMA_FIRMWARE_AND_CORE/blob/main/adapter-pico.jpg)
 
