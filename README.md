@@ -1,6 +1,10 @@
 # ALMA_FRIMWARE_AND_CORE
 The core and firmware that uses nowadays the PI-PICO family for use in ATLAS I/O Board is located in GITLAB.
 
+You can donwload the ALMA FIRMWARE HERE:
+https://gitlab.com/fpga-boards/alma-firmware
+
+
 FPGA RBF Loader
 Software to configure an FPGA using JTAG via the GPIO pins of a microcontroller. Currenly the main board supported is the Raspberry Pi Pico. Also, the ESP32doit-devkit is planned to be supported. At the begining it was developed targeting a Maix Bit SBC but this board is no more compatible, as this project was migrated to LVGL v8.x, not available for the Maix Bit.
 
